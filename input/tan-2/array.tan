@@ -1,0 +1,9 @@
+main {
+	var test := [false, false];
+	#print test \n;
+	#print length test \n;
+	
+	[test:1] := true; 
+	print [test:1] \n;
+	print test \n;
+}
